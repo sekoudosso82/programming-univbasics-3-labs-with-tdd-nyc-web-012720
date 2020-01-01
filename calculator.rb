@@ -2,3 +2,6 @@
 var first_number = 2 
 var second_number  = 3
 
+sum = first_number+second_number
+
+
