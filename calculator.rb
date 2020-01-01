@@ -2,9 +2,9 @@
 var first_number = 2 
 var second_number  = 3
 
-sum = first_number+second_number
-difference = first_number - second_number 
-product = first_number * second_number
-quotient = first_number/second_number
+var sum = first_number+second_number
+var difference = first_number - second_number 
+var product = first_number * second_number
+var quotient = first_number/second_number
 
 
