@@ -1,1 +1,1 @@
-var first_number 
+var first_number  = 1
